@@ -11,7 +11,7 @@ fullscreen = 0
 android.permissions = 
 android.api = 33
 android.minapi = 21
-android.ndk = 25b
+android.ndk = 28c
 p4a.branch = master
 
 [buildozer]
