@@ -13,3 +13,7 @@ android.api = 33
 android.minapi = 21
 android.ndk = 25b
 p4a.branch = master
+
+[buildozer]
+log_level = 1
+warn_on_root = 1
